@@ -3,8 +3,7 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
-
+# Documentation
 {{< columns >}}
 ## Astris ipse furtiva
 
@@ -36,6 +35,3 @@ sequens!
                 graphicsNvramCdma, lpi_footer_snmp, integer_model));
     }
 
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?

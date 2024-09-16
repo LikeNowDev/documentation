@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://likenow.org/'
 languageCode = 'en-us'
-title = 'Likenow Documentation'
+title = 'Likenow'
 theme = "hugo-book"

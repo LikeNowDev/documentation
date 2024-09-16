@@ -1,6 +1,6 @@
 {
-  "name": "Likenow Documentation",
-  "short_name": "Likenow Documentation",
+  "name": "Likenow",
+  "short_name": "Likenow",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
