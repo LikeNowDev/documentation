@@ -76,6 +76,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/tutorials/whole-foods/</loc>
   </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tos/</loc>
   </url>
 </urlset>

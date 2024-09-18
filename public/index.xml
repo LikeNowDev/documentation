@@ -106,5 +106,19 @@
       <guid>http://localhost:1313/docs/tutorials/whole-foods/</guid>
       <description> Whole Foods Delivery </description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>Privacy Policy LikeNow Business Machines Incorporated, a Delaware corporation respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit the website likenow.app (the “Website”) and/or use our mobile applications and/or other services offered via our Website (collectively, the “Service”), why we collect it, and how it is used.&#xA;Your Consent To This Privacy Policy By using the Website or the Service, you agree to this Privacy Policy and the collection and use of information contemplated hereby.</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/tos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tos/</guid>
+      <description>Terms of Service Last updated: January 6, 2023&#xA;From everyone at 37signals, thank you for using our products! We build them to help you do your best work. There are millions of people using 37signals products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.&#xA;When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.</description>
+    </item>
   </channel>
 </rss>
