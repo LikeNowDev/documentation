@@ -115,10 +115,10 @@
     </item>
     <item>
       <title>Terms of Service</title>
-      <link>http://localhost:1313/tos/</link>
+      <link>http://localhost:1313/terms-of-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tos/</guid>
-      <description>Terms of Service Last updated: January 6, 2023&#xA;From everyone at 37signals, thank you for using our products! We build them to help you do your best work. There are millions of people using 37signals products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.&#xA;When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.</description>
+      <guid>http://localhost:1313/terms-of-service/</guid>
+      <description>Terms of Service Last updated: September 18, 2024&#xA;From everyone at the Right Now Foundation, thank you for using LikeNow! We built it to help you get work done. There are a lot of people using LikeNow every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.&#xA;When we say “Company”, “we”, “our”, or “us” in this document, we are referring to the Right Now Foundation.</description>
     </item>
   </channel>
 </rss>
