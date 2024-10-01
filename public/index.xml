@@ -114,11 +114,32 @@
       <description>Privacy Policy LikeNow Business Machines Incorporated, a Delaware corporation respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit the website likenow.app (the “Website”) and/or use our mobile applications and/or other services offered via our Website (collectively, the “Service”), why we collect it, and how it is used.&#xA;Your Consent To This Privacy Policy By using the Website or the Service, you agree to this Privacy Policy and the collection and use of information contemplated hereby.</description>
     </item>
     <item>
+      <title>Policies, Terms, and other Legal Stuff</title>
+      <link>http://localhost:1313/policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/policies/</guid>
+      <description> Terms of Service Abuse </description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>LikeNow Business Machines Incorporated, a Delaware corporation respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit the website likenow.app (the “Website”) and/or use our mobile applications and/or other services offered via our Website (collectively, the “Service”), why we collect it, and how it is used.&#xA;Your Consent To This Privacy Policy By using the Website or the Service, you agree to this Privacy Policy and the collection and use of information contemplated hereby.</description>
+    </item>
+    <item>
       <title>Terms of Service</title>
       <link>http://localhost:1313/terms-of-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/terms-of-service/</guid>
-      <description>Terms of Service Last updated: September 18, 2024&#xA;From everyone at the Right Now Foundation, thank you for using LikeNow! We built it to help you get work done. There are a lot of people using LikeNow every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.&#xA;When we say “Company”, “we”, “our”, or “us” in this document, we are referring to the Right Now Foundation.</description>
+      <description>Last updated: October 10, 2024&#xA;From everyone at the Right Now Foundation, thank you for using LikeNow! We built it to help you find, and get work done. There are a lot of people using LikeNow every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.&#xA;When we say “Company”, “we”, “our”, or “us” in this document, we are referring to the Right Now Foundation.</description>
+    </item>
+    <item>
+      <title>Use Restrictions Policy</title>
+      <link>http://localhost:1313/abuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/abuse/</guid>
+      <description>Restricted purposes When you use any of 37signals’ Services, you acknowledge that you may not:&#xA;Collect or extract information and/or user data from accounts which do not belong to you. Circumvent, disable, or otherwise interfere with security-related features of the Services. Trick, defraud, or mislead us or other users, including but not limited to making false reports or impersonating another user. Upload or transmit (or attempt to upload or to transmit) viruses or any type of malware, or information collection mechanism, including 1×1 pixels, web bugs, cookies, or other similar devices.</description>
     </item>
   </channel>
 </rss>

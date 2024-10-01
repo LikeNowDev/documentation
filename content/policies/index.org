@@ -1,0 +1,4 @@
+#+title: Policies, Terms, and other Legal Stuff
+
+* [[{{< ref "../terms-of-service/index.org" >}}][Terms of Service]] 
+* [[{{< ref "../abuse/index.org" >}}][Abuse]]
