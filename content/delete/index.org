@@ -2,9 +2,9 @@
 
 * How to Delete Your Account in the LikeNow App
 ** Instructions
-1. Navigate to the LikeNow App
-2. Tap the Gear Icon (@@html:<span>&#9881;</span>@@) in the bottom right side of the bottom navigation bar
+1. Navigate to the LikeNow app from your home screen
+2. Tap the Gear Icon (@@html:<span>&#9881;</span>@@) in the right side of the bottom navigation bar
 3. Tap *Delete Account* to go to the account deletion page
-4. Tap *Delete Account* in the account deletion page
+4. Tap *Delete Account* in the account deletion page to finish deleting your account
 ** What's Deleted and When
 After an account deletion has been started by a user, the account and all of its data, including backups of all data, will be deleted after 30 days.
